@@ -3,7 +3,7 @@
 A sleek, responsive, and conversion-focused. Mintors Network is a trusted space connecting skilled community members with real project opportunities, and helping brands find reliable talent in the web3 space.
 
 Bridging the gap between skilled professionals and projects looking for dedicated talent to grow their communities and achieve their goals..  
-Built with **HTML, CSS, and JavaScript**, and deployed on **Vercel**.
+Built with **HTML5, CSS3, and JavaScript**, and deployed on **Vercel**.
 
 ---
 
