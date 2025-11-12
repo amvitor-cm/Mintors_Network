@@ -1,4 +1,4 @@
-# 🌐 Mintors Network — Modern Landing Page
+# 🌐 Mintors Network - Modern Landing Page
 
 A sleek, responsive, and conversion-focused. Mintors Network is a trusted space connecting skilled community members with real project opportunities, and helping brands find reliable talent in the web3 space.
 
